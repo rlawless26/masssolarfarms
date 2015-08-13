@@ -320,7 +320,7 @@ header {
     color: #fff;
     background-attachment: scroll;
     background: url(../img/nbbg.jpg) no-repeat center top;
-    background-position: center center;
+    background-position: center bottom;
     background-repeat: none;
     -webkit-background-size: cover;
     -moz-background-size: cover;
