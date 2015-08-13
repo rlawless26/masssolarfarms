@@ -14,7 +14,7 @@ body {
 }
 
 .text-primary {
-    color: #f15d4f;
+    color: #17b08d;
 }
 
 p {
@@ -35,14 +35,14 @@ a.active {
 }
 
 a {
-    color: #f15d4f;
+    color: #17b08d;
 }
 
 a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #fec503;
+    color: #118369;
 }
 
 h1,
@@ -69,12 +69,12 @@ h6 {
 }
 
 .btn-primary {
-    border-color: #f15d4f;
+    border-color: #17b08d;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
-    background-color: #f15d4f;
+    background-color: #17b08d;
 }
 
 .btn-primary:hover,
@@ -82,9 +82,9 @@ h6 {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-    border-color: #f6bf01;
+    border-color: #118369;
     color: #fff;
-    background-color: #fec503;
+    background-color: #118369;
 }
 
 .btn-primary:active,
@@ -108,18 +108,18 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #f15d4f;
-    background-color: #f15d4f;
+    border-color: #17b08d;
+    background-color: #17b08d;
 }
 
 .btn-primary .badge {
-    color: #f15d4f;
+    color: #17b08d;
     background-color: #fff;
 }
 
 .hubspot-btn {
     padding: 20px 40px;
-    border-color: #f15d4f;
+    border-color: #17b08d;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -128,19 +128,19 @@ fieldset[disabled] .btn-primary.active {
       height: 67px;
     font-weight: 700;
     color: #fff;
-    background-color: #f15d4f;   
+    background-color: #17b08d;   
  }
  
 .btn-xl {
     padding: 20px 40px;
-    border-color: #f15d4f;
+    border-color: #17b08d;
     border-radius: 3px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
-    background-color: #f15d4f;
+    background-color: #17b08d;
 }
 
 .hubspot-btn:hover,
@@ -148,9 +148,9 @@ fieldset[disabled] .btn-primary.active {
 .hubspot-btn:active,
 .hubspot-btn.active,
 .open .dropdown-toggle .hubspot-btn {
-    border-color: #f6bf01;
+    border-color: #118369;
     color: #fff;
-    background-color: #fec503;
+    background-color: #118369;
 }
 
 .hubspot-btn:active,
@@ -174,12 +174,12 @@ fieldset[disabled] .hubspot-btn:active,
 .hubspot-btn.disabled.active,
 .hubspot-btn[disabled].active,
 fieldset[disabled] .hubspot-btn.active {
-    border-color: #f15d4f;
-    background-color: #f15d4f;
+    border-color: #17b08d;
+    background-color: #17b08d;
 }
 
 .hubspot-btn .badge {
-    color: #f15d4f;
+    color: #17b08d;
     background-color: #fff;
 }
 
@@ -188,9 +188,9 @@ fieldset[disabled] .hubspot-btn.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #f6bf01;
+    border-color: #118369;
     color: #fff;
-    background-color: #fec503;
+    background-color: #118369;
 }
 
 .btn-xl:active,
@@ -214,12 +214,12 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-    border-color: #f15d4f;
-    background-color: #f15d4f;
+    border-color: #17b08d;
+    background-color: #17b08d;
 }
 
 .btn-xl .badge {
-    color: #f15d4f;
+    color: #17b08d;
     background-color: #fff;
 }
 
@@ -230,14 +230,14 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #f15d4f;
+    color: #17b08d;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #fec503;
+    color: #118369;
 }
 
 .navbar-default .navbar-collapse {
@@ -245,8 +245,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #f15d4f;
-    background-color: #f15d4f;
+    border-color: #17b08d;
+    background-color: #17b08d;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -255,7 +255,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #f15d4f;
+    background-color: #17b08d;
 }
 
 .navbar-default .nav li a {
@@ -269,19 +269,19 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #f15d4f;
+    color: #17b08d;
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #f15d4f;
+    background-color: #17b08d;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #fec503;
+    background-color: #118369;
 }
 
 @media(min-width:768px) {
@@ -328,6 +328,10 @@ header {
     -o-background-size: cover;
 }
 
+.overlay {
+   background: rgba(0, 0, 0, 0.4)
+}
+
 header .intro-text {
     padding-top: 100px;
 }
@@ -351,7 +355,7 @@ header .intro-text .intro-heading {
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 250px;
-        padding-bottom:400px;
+        padding-bottom:354px;
     }
 
     header .intro-text .intro-lead-in {
@@ -544,7 +548,7 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #f15d4f;
+    background-color: #17b08d;
 }
 
 .timeline>li .timeline-image h4 {
@@ -730,7 +734,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-    border-color: #f15d4f;
+    border-color: #17b08d;
     box-shadow: none;
 }
 
@@ -808,7 +812,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #f15d4f;
+    background-color: #17b08d;
 }
 
 .btn:focus,
@@ -896,12 +900,12 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #f15d4f;
+    background: #17b08d;
 }
 
 ::selection {
     text-shadow: none;
-    background: #f15d4f;
+    background: #17b08d;
 }
 
 img::selection {
@@ -913,5 +917,5 @@ img::-moz-selection {
 }
 
 body {
-    webkit-tap-highlight-color: #f15d4f;
+    webkit-tap-highlight-color: #17b08d;
 }
